@@ -1,2 +1,2 @@
-# odin-recipes
+# Odin-recipes
 A simple HTML website with some of my favourite recipes.
