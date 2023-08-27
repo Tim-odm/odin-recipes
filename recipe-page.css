@@ -1,0 +1,46 @@
+h1 {
+    border-bottom: 2px solid;
+    padding-bottom: 8px;
+}
+
+.panel {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 0;
+    border-radius: 16px;
+}
+
+.recipe-description {
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px dotted;
+    padding: 16px;
+}
+
+.recipe-description p {
+    flex-basis: 600px;
+    text-align: left;
+    padding: 16px 28px;
+}
+
+.recipe-description img {
+
+}
+
+.ingredients-procedure {
+    display: flex;
+}
+
+.procedure {
+    flex: 1;
+    border-left: 2px dotted ;
+    padding: 0 16px;
+}
+
+.ingredients {
+    flex-basis: 440px;
+    padding: 0 32px;
+}
+
+
